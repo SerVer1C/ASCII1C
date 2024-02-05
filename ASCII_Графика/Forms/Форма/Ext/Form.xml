@@ -165,7 +165,8 @@
 					</Title>
 					<TitleLocation>None</TitleLocation>
 					<ToolTipRepresentation>None</ToolTipRepresentation>
-					<Height>4</Height>
+					<Height>5</Height>
+					<VerticalStretch>false</VerticalStretch>
 					<PictureSize>AutoSize</PictureSize>
 					<ContextMenu name="КартинкаКонтекстноеМеню" id="10"/>
 					<ExtendedTooltip name="КартинкаРасширеннаяПодсказка" id="11"/>
